@@ -1,1 +1,1 @@
-apache-airflow[password, s3]==1.10.9
+apache-airflow[password, aws]==1.10.9
