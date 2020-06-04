@@ -1,1 +1,1 @@
-apache-airflow[password, aws, crypto, celery]==1.10.9
+apache-airflow[password, aws, crypto, celery]==1.10.10
